@@ -10,7 +10,7 @@ Tested working with PHP5.4 and above (including PHP 7 )
  */
 
  // do not think this is right
-require_once './vendor/php-email-form/autoload.php';
+require_once '../assets/vendor/php-email-form/autoload.php';
 
 use FormGuide\Handlx\FormHandler;
 
